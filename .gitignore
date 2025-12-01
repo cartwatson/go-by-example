@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But not these files...
+!/.gitignore
+
+!*.go
+
+!README.md
+!flake.lock
+!flake.nix
